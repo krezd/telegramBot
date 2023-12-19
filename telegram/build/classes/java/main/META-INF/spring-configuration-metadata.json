@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "telegram-bot.config",
+      "type": "com.example.telegram.property.TelegramBotProperty",
+      "sourceType": "com.example.telegram.property.TelegramBotProperty"
+    }
+  ],
+  "properties": [
+    {
+      "name": "telegram-bot.config.name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.telegram.property.TelegramBotProperty"
+    },
+    {
+      "name": "telegram-bot.config.token",
+      "type": "java.lang.String",
+      "sourceType": "com.example.telegram.property.TelegramBotProperty"
+    }
+  ],
+  "hints": []
+}
